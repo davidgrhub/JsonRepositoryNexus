@@ -2534,7 +2534,7 @@
         "Prc_Traslados_Esp":"46",
         "Prc_Traslados_Eng":"46",
         "Prc_Traslados_Fr":"46",
-        "Color_Cintillo":"background:url(https:\/\/www.nexustours.com\/images\/upload\/\/Tramado-night-sale.jpg); background-position-y: center;",
+        "Color_Cintillo":"background:url(); background:linear-gradient(to left, #EB4600 0%,  #EB4600 150% );",
         "Unnamed:_44":null
     }
 ]
