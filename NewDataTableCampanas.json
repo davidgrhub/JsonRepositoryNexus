@@ -2750,7 +2750,7 @@
         "Prioridad_Campana":2.0,
         "Disponible_MX":0.0,
         "Disponible_USA":1.0,
-        "Disponible_CA":1.0,
+        "Disponible_CA":0.0,
         "Dia_Inicio_Campana_Esp":"7",
         "Dia_Inicio_Campana_Eng":"7",
         "Dia_Inicio_Campana_Fr":7,
