@@ -7,7 +7,7 @@
       "flight_number": "AA1234",
       "transfer_pickup_time": "10:20 AM",
       "source": {
-        "data_source": "Microsoft SharePoint",
+        "data_source": "Github",
         "update_frequency": "Daily"
       }
     }
