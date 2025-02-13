@@ -1,0 +1,15 @@
+{
+  "template": {
+    "type": "JSON",
+    "content": {
+      "flight_date": "01 February 2025",
+      "airline": "American Airlines",
+      "flight_number": "AA1234",
+      "transfer_pickup_time": "10:20 AM",
+      "source": {
+        "data_source": "Microsoft SharePoint",
+        "update_frequency": "Daily"
+      }
+    }
+  }
+}
