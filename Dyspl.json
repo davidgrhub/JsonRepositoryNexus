@@ -97,6 +97,12 @@
         "airline": "DL",
         "flight_number": "NX1653",
         "transfer_pickup_time": "04:53 PM"
+      },
+      {
+        "flight_date": "19 Feb",
+        "airline": "UA",
+        "flight_number": "NX1658",
+        "transfer_pickup_time": "04:58 PM"
       }
     ],
     "source": {
