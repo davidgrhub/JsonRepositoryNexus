@@ -73,6 +73,12 @@
         "airline": "AA",
         "flight_number": "NX1544",
         "transfer_pickup_time": "03:44 PM"
+      },
+      {
+        "flight_date": "19 Feb",
+        "airline": "AA",
+        "flight_number": "NX1550",
+        "transfer_pickup_time": "03:50 PM"
       }
     ],
     "source": {
