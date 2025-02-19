@@ -127,6 +127,12 @@
         "airline": "UA",
         "flight_number": "NX1718",
         "transfer_pickup_time": "05:18 PM"
+      },
+      {
+        "flight_date": "19 Feb",
+        "airline": "AA",
+        "flight_number": "NX1723",
+        "transfer_pickup_time": "05:23 PM"
       }
     ],
     "source": {
