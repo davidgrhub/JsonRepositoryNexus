@@ -4,19 +4,19 @@
     "content": [
       {
         "flight_date": "25 Feb",
-        "airline": "American",
+        "airline": "NWY",
         "flight_number": "AD823X",
         "transfer_pickup_time": "7:30 PM"
       },
       {
         "flight_date": "25 Feb",
-        "airline": "AMD",
+        "airline": "JSY",
         "flight_number": "AD824X",
         "transfer_pickup_time": "7:45 PM"
       },
       {
         "flight_date": "25 Feb",
-        "airline": "FLAIR",
+        "airline": "JETBLUE",
         "flight_number": "AD825X",
         "transfer_pickup_time": "8:00 PM"
       },
