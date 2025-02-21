@@ -11,13 +11,13 @@
       {
         "flight_date": "22 feb",
         "airline": "Sunwing",
-        "flight_number": "AM4056",
+        "flight_number": "Lom5478",
         "transfer_pickup_time": "7:45 PM"
       },
       {
         "flight_date": "22 feb",
         "airline": "Sunwing",
-        "flight_number": "VV3454",
+        "flight_number": "ARI829",
         "transfer_pickup_time": "7:50 PM"
       },
       {
@@ -29,7 +29,7 @@
       {
         "flight_date": "28 feb",
         "airline": "VIVA",
-        "flight_number": "FA6798",
+        "flight_number": "USR1010",
         "transfer_pickup_time": "8:00 PM"
       },
       {
