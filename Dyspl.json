@@ -3,159 +3,51 @@
     "type": "JSON",
     "content": [
       {
-        "flight_date": "25 Feb",
+        "flight_date": "25 feb",
         "airline": "American",
-        "flight_number": "AD823X",
+        "flight_number": "AA1374",
         "transfer_pickup_time": "7:30 PM"
       },
       {
-        "flight_date": "25 Feb",
-        "airline": "AMD",
-        "flight_number": "AD824X",
+        "flight_date": "26 feb",
+        "airline": "Aeromexico",
+        "flight_number": "AM4056",
         "transfer_pickup_time": "7:45 PM"
       },
       {
-        "flight_date": "25 Feb",
-        "airline": "FLAIR",
-        "flight_number": "AD825X",
+        "flight_date": "27 feb",
+        "airline": "VIVA",
+        "flight_number": "VV3454",
+        "transfer_pickup_time": "7:50 PM"
+      },
+      {
+        "flight_date": "28 feb",
+        "airline": "Emirates",
+        "flight_number": "EM1715",
+        "transfer_pickup_time": "7:55 PM"
+      },
+      {
+        "flight_date": "1 mar",
+        "airline": "Flair Airlines",
+        "flight_number": "FA6798",
         "transfer_pickup_time": "8:00 PM"
       },
       {
-        "flight_date": "25 Feb",
-        "airline": "VIVA",
-        "flight_number": "AD826X",
-        "transfer_pickup_time": "8:15 PM"
-      },
-      {
-        "flight_date": "25 Feb",
-        "airline": "VIVA",
-        "flight_number": "AD827X",
+        "flight_date": "2 mar",
+        "airline": "Westjet",
+        "flight_number": "WJ3496",
         "transfer_pickup_time": "8:30 PM"
       },
       {
-        "flight_date": "26 Feb",
-        "airline": "VIVA",
-        "flight_number": "AD828X",
-        "transfer_pickup_time": "8:45 PM"
-      },
-      {
-        "flight_date": "26 Feb",
-        "airline": "VIVA",
-        "flight_number": "AD829X",
+        "flight_date": "3 mar",
+        "airline": "United",
+        "flight_number": "UN0987",
         "transfer_pickup_time": "9:00 PM"
-      },
-      {
-        "flight_date": "26 Feb",
-        "airline": "VIVA",
-        "flight_number": "AD830X",
-        "transfer_pickup_time": "9:15 PM"
-      },
-      {
-        "flight_date": "26 Feb",
-        "airline": "VIVA",
-        "flight_number": "AD831X",
-        "transfer_pickup_time": "9:30 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "AA",
-        "flight_number": "NX1534",
-        "transfer_pickup_time": "03:34 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "DL",
-        "flight_number": "NX1539",
-        "transfer_pickup_time": "03:39 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "AA",
-        "flight_number": "NX1544",
-        "transfer_pickup_time": "03:44 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "AA",
-        "flight_number": "NX1550",
-        "transfer_pickup_time": "03:50 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "DL",
-        "flight_number": "NX1606",
-        "transfer_pickup_time": "04:06 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "DL",
-        "flight_number": "NX1648",
-        "transfer_pickup_time": "04:48 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "DL",
-        "flight_number": "NX1653",
-        "transfer_pickup_time": "04:53 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "UA",
-        "flight_number": "NX1658",
-        "transfer_pickup_time": "04:58 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "UA",
-        "flight_number": "NX1703",
-        "transfer_pickup_time": "05:03 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "DL",
-        "flight_number": "NX1708",
-        "transfer_pickup_time": "05:08 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "DL",
-        "flight_number": "NX1713",
-        "transfer_pickup_time": "05:13 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "UA",
-        "flight_number": "NX1718",
-        "transfer_pickup_time": "05:18 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "AA",
-        "flight_number": "NX1723",
-        "transfer_pickup_time": "05:23 PM"
-      },
-      {
-        "flight_date": "19 Feb",
-        "airline": "UA",
-        "flight_number": "NX1728",
-        "transfer_pickup_time": "05:28 PM"
-      },
-      {
-        "flight_date": "20 Feb",
-        "airline": "DL",
-        "flight_number": "NX0934",
-        "transfer_pickup_time": "09:34 AM"
-      },
-      {
-        "flight_date": "20 Feb",
-        "airline": "UA",
-        "flight_number": "NX1107",
-        "transfer_pickup_time": "11:07 AM"
       }
     ],
     "source": {
-      "data_source": "Github",
-      "update_frequency": "Daily"
+      "data_source": "Google Sheets",
+      "update_frequency": "Automated"
     }
   }
 }
