@@ -4,31 +4,31 @@
     "content": [
       {
         "flight_date": "25 feb",
-        "airline": "Sunwing",
+        "airline": "Westjet",
         "flight_number": "UWI879",
         "transfer_pickup_time": "7:30 PM"
       },
       {
         "flight_date": "26 feb",
-        "airline": "Aeromexico",
+        "airline": "Sunwing",
         "flight_number": "AM4056",
         "transfer_pickup_time": "7:45 PM"
       },
       {
         "flight_date": "27 feb",
-        "airline": "VIVA",
+        "airline": "Sunwing",
         "flight_number": "VV3454",
         "transfer_pickup_time": "7:50 PM"
       },
       {
         "flight_date": "28 feb",
-        "airline": "Emirates",
+        "airline": "United",
         "flight_number": "EM1715",
         "transfer_pickup_time": "7:55 PM"
       },
       {
         "flight_date": "1 mar",
-        "airline": "Flair Airlines",
+        "airline": "VIVA",
         "flight_number": "FA6798",
         "transfer_pickup_time": "8:00 PM"
       },
@@ -40,7 +40,7 @@
       },
       {
         "flight_date": "14 mar",
-        "airline": "United",
+        "airline": "Sunwing",
         "flight_number": "ARO8874",
         "transfer_pickup_time": "9:00 PM"
       },
