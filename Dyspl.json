@@ -3,51 +3,51 @@
     "type": "JSON",
     "content": [
       {
-        "flight_date": "21 feb",
+        "flight_date": "24 feb",
         "airline": "American airlines",
-        "flight_number": "UWI879",
+        "flight_number": "ART387",
         "transfer_pickup_time": "7:30 PM"
       },
       {
         "flight_date": "25 feb",
-        "airline": "Sunwing",
-        "flight_number": "Lom5478",
+        "airline": "American airlines",
+        "flight_number": "LOOM4438",
         "transfer_pickup_time": "7:45 PM"
       },
       {
-        "flight_date": "23 feb",
+        "flight_date": "25 feb",
         "airline": "Sunwing",
-        "flight_number": "ARI829",
+        "flight_number": "QOPT5930",
         "transfer_pickup_time": "7:50 PM"
-      },
-      {
-        "flight_date": "22 feb",
-        "airline": "United",
-        "flight_number": "EM1715",
-        "transfer_pickup_time": "8:16 AM"
-      },
-      {
-        "flight_date": "21 feb",
-        "airline": "United",
-        "flight_number": "USR1010",
-        "transfer_pickup_time": "8:00 PM"
-      },
-      {
-        "flight_date": "22 feb",
-        "airline": "Westjet",
-        "flight_number": "WJ3496",
-        "transfer_pickup_time": "11:21 AM"
       },
       {
         "flight_date": "24 feb",
         "airline": "Sunwing",
-        "flight_number": "ARO8874",
+        "flight_number": "7YH9Q",
+        "transfer_pickup_time": "8:16 AM"
+      },
+      {
+        "flight_date": "24 feb",
+        "airline": "Sunwing",
+        "flight_number": "9IK810",
+        "transfer_pickup_time": "8:00 PM"
+      },
+      {
+        "flight_date": "24 feb",
+        "airline": "Westjet",
+        "flight_number": "ARMNC1900",
+        "transfer_pickup_time": "11:21 AM"
+      },
+      {
+        "flight_date": "25 feb",
+        "airline": "Westjet",
+        "flight_number": "DHFI988",
         "transfer_pickup_time": "9:00 PM"
       },
       {
-        "flight_date": "21 feb",
-        "airline": "Sunwing",
-        "flight_number": "LOM9567",
+        "flight_date": "25 feb",
+        "airline": "American airlines",
+        "flight_number": "HCIS807",
         "transfer_pickup_time": "7:30 PM"
       }
     ],
