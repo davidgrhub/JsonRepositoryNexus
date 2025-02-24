@@ -1,7 +1,56 @@
 {
   "template": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "flight_date": "21 feb",
+        "airline": "American airlines",
+        "flight_number": "UWI879",
+        "transfer_pickup_time": "7:30 PM"
+      },
+      {
+        "flight_date": "25 feb",
+        "airline": "Sunwing",
+        "flight_number": "Lom5478",
+        "transfer_pickup_time": "7:45 PM"
+      },
+      {
+        "flight_date": "23 feb",
+        "airline": "Sunwing",
+        "flight_number": "ARI829",
+        "transfer_pickup_time": "7:50 PM"
+      },
+      {
+        "flight_date": "22 feb",
+        "airline": "United",
+        "flight_number": "EM1715",
+        "transfer_pickup_time": "8:16 AM"
+      },
+      {
+        "flight_date": "21 feb",
+        "airline": "United",
+        "flight_number": "USR1010",
+        "transfer_pickup_time": "8:00 PM"
+      },
+      {
+        "flight_date": "22 feb",
+        "airline": "Westjet",
+        "flight_number": "WJ3496",
+        "transfer_pickup_time": "11:21 AM"
+      },
+      {
+        "flight_date": "24 feb",
+        "airline": "Sunwing",
+        "flight_number": "ARO8874",
+        "transfer_pickup_time": "9:00 PM"
+      },
+      {
+        "flight_date": "21 feb",
+        "airline": "Sunwing",
+        "flight_number": "LOM9567",
+        "transfer_pickup_time": "7:30 PM"
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
