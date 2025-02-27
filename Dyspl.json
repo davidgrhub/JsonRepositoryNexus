@@ -49,6 +49,12 @@
         "airline": "American airlines",
         "flight_number": "HCIS807",
         "transfer_pickup_time": "3:30 PM"
+      },
+      {
+        "flight_date": "27 Feb",
+        "airline": "DL",
+        "flight_number": "NX1604",
+        "transfer_pickup_time": "04:04 PM"
       }
     ],
     "source": {
