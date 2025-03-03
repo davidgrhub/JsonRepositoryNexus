@@ -3195,8 +3195,8 @@
         "Color_Cintillo":"background:url(); background:linear-gradient(to left, #FFA032 0%,  #FFA032 150% );",
         "Unnamed:_44":null
     },
-        {
-            "Nombre_de_la_Campana":"Flash Sale",
+    {
+        "Nombre_de_la_Campana":"Flash Sale",
         "Mes_Campana":"Marzo",
         "Year":2025.0,
         "Fecha_Inicio_Campana":"2025-03-03",
@@ -3224,8 +3224,8 @@
         "Dia_Inicio_Campana_Esp":"1",
         "Dia_Inicio_Campana_Eng":"1",
         "Dia_Inicio_Campana_Fr":1,
-        "Dia_Fin_Campana_Esp":5",
-        "Dia_Fin_Campana_Eng":5",
+        "Dia_Fin_Campana_Esp":"5",
+        "Dia_Fin_Campana_Eng":"5",
         "Dia_Fin_Campana_Fr":5,
         "Mes_Inicio_Campana_Esp":"Marzo",
         "Mes_Inicio_Campana_Eng":"March",
