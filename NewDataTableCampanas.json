@@ -3333,7 +3333,7 @@
         "Prc_Traslados_Esp":"50",
         "Prc_Traslados_Eng":"50",
         "Prc_Traslados_Fr":"50",
-        "Color_Cintillo":"background:url(); background:linear-gradient(to left, #54B413 0%,  #54B413 150% );",
+        "Color_Cintillo":"background:url(); background:linear-gradient(to left, #FFA032 0%,  #FFA032 150% );",
         "Unnamed:_44":null
     }
 ]
